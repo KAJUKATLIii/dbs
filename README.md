@@ -13,3 +13,6 @@ Distribution Management System
 ## Screenshots Collage
 ![image](https://github.com/KAJUKATLIii/dbs/blob/main/images/op.png)
 
+-
+
+⭐️ From [@KAJUKATLIii](https://github.com/KAJUKATLIii/KAJUKATLIii)
